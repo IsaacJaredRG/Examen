@@ -12,6 +12,15 @@ while a==0:
     #AREA DE UN CIRCULO (ALEJANDRO)
     elif b==2:
         print("area circulo")
+        print(" ")
+		print("Ingrese el radio del circulo")
+		radio=float(input("Ingreselo aqui "))
+		print(" ")
+
+		total1= (radio*radio*3.1416)
+
+		print("El area del circulo es = ", total1)
+		print(" ")
     
     #opcion incorrecta
     else:
