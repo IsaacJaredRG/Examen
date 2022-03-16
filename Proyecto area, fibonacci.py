@@ -14,7 +14,7 @@ while a==0:
         print("area circulo")
         print(" ")
 		print("Ingrese el radio del circulo")
-		radio=float(input("Ingreselo aqui "))
+		radio=float(input("Ingrese aqui "))
 		print(" ")
 
 		total1= (radio*radio*3.1416)
