@@ -7,11 +7,11 @@ while a==0:
     b=int (input(""))
     #NUMERO FIBONACCI (MELANY)
     if b==1:
-        print("numeros fibonacci")
+        print("llenar")
 
     #AREA DE UN CIRCULO (ALEJANDRO)
     elif b==2:
-        print("area circulo")
+        print("llenar")
     
     #opcion incorrecta
     else:
