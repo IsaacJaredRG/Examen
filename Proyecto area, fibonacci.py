@@ -11,6 +11,7 @@ while a==0:
 
     #AREA DE UN CIRCULO (ALEJANDRO)
     elif b==2:
+        print("llenar")
         print("area circulo")
         print(" ")
 		print("Ingrese el radio del circulo")
